@@ -1,5 +1,14 @@
+# Overview
+* This is a simple windows C++ app to connect to websocket API of [bitmex.com](www.bitmex.com), an crypto currency exchange
+* The websocket API is used to subscribe to price, trade or position update, more details in the [official documentation](https://testnet.bitmex.com/app/wsAPI)
+* Dependency
+  * boost x64 version 66
+  * websocketpp (included in the repo)
+  * openSSL x64
+  * [json API](https://github.com/nlohmann/json) built by [nlohmann](https://github.com/nlohmann)
+
 # Pre-compile Setup
-1. Download boost_1_64_0
+1. Download boost_1_66_0
 2. Download websocketpp
 3. Install OpenSSL x64
 4. Run b2 address-model=64 under boost folder
