@@ -15,7 +15,7 @@
 5. Run bjam address-model=64 under boost folder
 6. In VS, include below directories
 * \OpenSSL\include
-* \websocketpp-master
+* \bitmex (websocketpp is in this root folder)
 * \boost_1_64_0\boost_1_64_0
 7. In VS, add below to the linker libary directory
 * \OpenSSL\lib\VC\static
