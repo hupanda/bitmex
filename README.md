@@ -4,7 +4,7 @@
 * Dependency
   * boost x64 version 66
   * openSSL x64
-  * [websocketpp](ttps://github.com/zaphoyd/websocketpp) by [Peter Thorson](https://github.com/zaphoyd/)
+  * [websocketpp](https://github.com/zaphoyd/websocketpp) by [Peter Thorson](https://github.com/zaphoyd/)
   * [json](https://github.com/nlohmann/json) by [Niels Lohmann](https://github.com/nlohmann)
 
 # Pre-compile Setup
